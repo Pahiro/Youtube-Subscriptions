@@ -1,0 +1,3 @@
+A short Python script to retrieve the upload lists of various channels, compare it to your Watched videos as well as a list of sent videos and only send the new ones to your phone using AutoRemote.
+
+The AutoRemote library can be found here. https://github.com/ddyeakley/autoremote
